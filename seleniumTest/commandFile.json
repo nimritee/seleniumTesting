@@ -1,0 +1,6 @@
+{
+    "browserName":"Chrome",
+    "browserType":"Nonheadless",
+    "url":"https://blogs.nimritee.com/",
+    "blogTitle":"5 useful CSS tricks with images"
+}
